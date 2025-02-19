@@ -20,8 +20,8 @@ AMOUNT_ETH = 0.0000000001  # Jumlah ETH untuk deposit
 web3 = Web3(Web3.HTTPProvider(RPC_URL))
 
 # Konfigurasi Telegram
-TELEGRAM_BOT_TOKEN = "7606503038:AAGkbnoTvtIXNKHL2IajzikXQAVezBWKaWM"
-TELEGRAM_CHAT_ID = "756671280"
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TELEGRAM_CHAT_ID = "YOUR_CHAT_ID_TOKEN"
 
 def send_telegram_message(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
