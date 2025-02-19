@@ -26,8 +26,7 @@ pip install -r requirements.txt
 ```
 **Edit Token BOT Telegram and Chat ID**
 ```bash
-https://github.com/isansut/Hanafuda-BOT/blob/c186630282bbdaa544be51a832b35749623c4771/main.py#L23
-https://github.com/isansut/Hanafuda-BOT/blob/c186630282bbdaa544be51a832b35749623c4771/main.py#L24
+[Lihat kode di sini](https://github.com/USERNAME/my-repo/blob/main/script.py#L10-L20)
 ```
 **Edit pvkey.txt and input Private Key**
 ```bash
